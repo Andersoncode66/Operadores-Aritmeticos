@@ -1,4 +1,4 @@
-# Operadores Aritméticos em Java Exemplos Práticos
+# Operadores Aritméticos em Java Exemplos Práticos.
 Este projeto demonstra o uso de operadores aritméticos básicos em Java. Ele inclui exemplos de adição, subtração, multiplicação, divisão e outras operações matemáticas.
 
 ## Índice
